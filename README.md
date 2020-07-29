@@ -5,7 +5,7 @@ Bootcamp Excel Homework 1
 Over $2 billion has been raised using the massively successful crowdfunding service, Kickstarter, but not every project has found success. Of the more than 300,000 projects launched on Kickstarter, only a third have made it through the funding process with a positive outcome.
 Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. For this week's homework, you will organize and analyze a database of 4,000 past projects in order to uncover any hidden trends.
 
-#Before You Begin
+##Before You Begin
 
 
 Create a new space for this project called excel-challenge in either DropBox or Google Drive. Do not add this homework to an existing space.
@@ -15,7 +15,7 @@ Store your excel workbooks in here and create a sharable link for submission.
 
 
 
-#Instructions
+##Instructions
 
 Using the Excel table provided, modify and analyze the data of 4,000 past Kickstarter projects as you attempt to uncover some market trends.
 
@@ -84,7 +84,7 @@ What are some limitations of this dataset?
 What are some other possible tables and/or graphs that we could create?
 
 
-#Bonus
+##Bonus
 
 
 Create a new sheet with 8 columns:
@@ -128,7 +128,7 @@ Create a line chart that graphs the relationship between a goal's amount and its
 
 
 
-#Bonus Statistical Analysis
+##Bonus Statistical Analysis
 If one were to describe a successful crowdfunding campaign, most people would use the number of campaign backers as a metric of success. One of the most efficient ways that data scientists characterize a quantitative metric, such as the number of campaign backers, is by creating a summary statistics table.
 For those looking for an additional challenge, you will evaluate the number of backers of successful and unsuccessful campaigns by creating your own summary statistics table.
 
@@ -167,7 +167,7 @@ Use your data to determine if there is more variability with successful or unsuc
 
 
 
-#Submission
+##Submission
 
 To submit your homework, upload the solution and files to a GitHub repo, Dropbox, or Google Drive and submit the link to https://bootcampspot.com/.
 
